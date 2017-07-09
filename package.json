@@ -44,7 +44,7 @@
     "grimoirejs": "^0.19.1",
     "grimoirejs-animation": "^1.2.0",
     "grimoirejs-fundamental": "^0.26.0",
-    "grimoirejs-math": "^1.14.2"
+    "grimoirejs-math": "^1.14.3"
   },
   "repository": {
     "type": "git",
